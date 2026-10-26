@@ -38,8 +38,8 @@ NuReform is designed to replace the hand-built weekly roster of a hospital ward.
 
 ## Demo
 
-<p align="center"><a href="docs/NuReform-demo.mp4"><img src="docs/images/demo.gif" width="720" alt="NuReform demo: a tour of every screen"></a></p>
-<p align="center"><sub>A quick tour of every screen, head nurse first and then nurse. <a href="docs/NuReform-demo.mp4"><b>▶ Watch the full demo video (3:22)</b></a></sub></p>
+<p align="center"><img src="docs/images/demo.gif" width="720" alt="NuReform demo: a tour of every screen"></p>
+<p align="center"><sub>A quick tour of every screen, head nurse first and then nurse.</sub></p>
 
 ## How It Works
 
